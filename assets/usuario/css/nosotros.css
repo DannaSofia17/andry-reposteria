@@ -1,0 +1,25 @@
+/* ¿Quienes somos? */
+
+.nosotros{
+    border: 2px solid #e8878cc4;
+    border-radius: 20px;
+    margin: 30px;
+    padding: 40px;
+    text-align: center;
+    background-color: #ffd6d894;
+    box-sizing: border-box;
+  }
+  
+  .nosotros span{
+    font-family: 'Satisfy', cursive;
+    font-size: 4.5rem;
+    color: #e8878c;
+    text-transform:none;
+  }
+  
+  .nosotros p{
+    text-align: justify center;
+    font-size: 160%;
+    letter-spacing: 0.8px;
+    text-transform: inherit;
+  }
